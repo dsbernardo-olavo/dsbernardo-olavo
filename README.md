@@ -5,7 +5,7 @@ With solid experience in education, I have worked as a pedagogical coordinator, 
 
 🎯 **My goal is to transform data into intelligent insights that drive meaningful and positive impact**.
 
-You will find here projects I had worked on for educational purposes using data visualization tools, Python, and SQL.
+## 📂 Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsbernardo-olavo&repo=Global-Superstore-Sales-Analysis)](https://github.com/dsbernardo-olavo/Global-Superstore-Sales-Analysis)
 
