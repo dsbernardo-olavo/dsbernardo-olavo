@@ -10,3 +10,6 @@ With solid experience in education, I have worked as a pedagogical coordinator, 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsbernardo-olavo&repo=Global-Superstore-Sales-Analysis)](https://github.com/dsbernardo-olavo/Global-Superstore-Sales-Analysis)
 
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
