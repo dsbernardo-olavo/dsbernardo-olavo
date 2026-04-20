@@ -5,7 +5,6 @@ With solid experience in education, I have worked as a pedagogical coordinator, 
 <br>
 
 🎯 **My goal is to transform data into intelligent insights that drive meaningful and positive impact**.
-
 <br>
 
 ## 📂 Projects:
