@@ -7,11 +7,6 @@ With solid experience in education, I have worked as a pedagogical coordinator, 
 🎯 **My goal is to transform data into intelligent insights that drive meaningful and positive impact**.
 </p>
 
-## 📂 Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsbernardo-olavo&repo=Global-Superstore-Sales-Analysis)](https://github.com/dsbernardo-olavo/Global-Superstore-Sales-Analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsbernardo-olavo&repo=Car-Price-Predictor)](https://github.com/dsbernardo-olavo/Car-Price-Predictor)
-
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
